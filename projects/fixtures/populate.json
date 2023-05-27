@@ -1,0 +1,32 @@
+[
+    {
+        "model": "projects.Project",
+        "pk": 1,
+        "fields": {
+            "title": "Portfolio Website",
+            "description": "As a first private project, I created a website to show off future projects.",
+            "technology": "Django",
+            "image": "img/project1.png"
+        }
+    },
+    {
+        "model": "projects.Project",
+        "pk": 2,
+        "fields": {
+            "title": "Android Mahjong Score Calculator",
+            "description": "I wanted to create an app to keep track of mahjong scores.",
+            "technology": "Kotlin",
+            "image": "img/project2.png"
+        }
+    },
+    {
+        "model": "projects.Project",
+        "pk": 3,
+        "fields": {
+            "title": "Tic Tac Toe game",
+            "description": "Creating a simple game using Java",
+            "technology": "Java",
+            "image": "img/project3.png"
+        }
+    }
+]
